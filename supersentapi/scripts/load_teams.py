@@ -1,10 +1,10 @@
 import csv
 import os
-from ../api_main/models import Team
+from ..api_main.models import Team
 
 def run():
     # this refers to the csv file that should be read
-    # file = open(INSERT_FILE_PATH_HERE)
+    file = open('api_main/scripts/sentapi_seed_data.csv')
     read_file = csv.reader(file)
 
     # avoid header values
