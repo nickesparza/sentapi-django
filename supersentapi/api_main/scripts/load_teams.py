@@ -1,6 +1,6 @@
 import csv
 import os
-from ..api_main.models import Team
+from ..models import Team
 
 def run():
     # this refers to the csv file that should be read
@@ -15,4 +15,5 @@ def run():
             pass
         else:
             print(team)
-            Team.objects.create(series=team[0], name=team[1], year=team[2], era=team[3], colors=[4], actors=[5])
+            Team.objects.create(series_number=team[0], name=team[1], year=team[2], era=team[3], colors=team[4], actors=team[5])
+        count = count + 1
