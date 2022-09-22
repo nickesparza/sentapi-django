@@ -1,0 +1,50 @@
+[
+    {
+        "model": "api_main.team",
+        "pk": 1,
+        "fields": {
+            "series_number": 1,
+            "name": "Himitsu Sentai Gorenger",
+            "year": 1975,
+            "era": "Showa",
+            "colors": [
+                "red",
+                "blue",
+                "yellow",
+                "pink",
+                "green"
+            ],
+            "actors": {
+                "red": "Naoya Makoto",
+                "blue": "Hiroshi Miyauchi",
+                "pink": "Lisa Komaki",
+                "green": "Yukio Itou",
+                "yellow": "Baku Hatakeyama, Jiro Daruma"
+            }
+        }
+    },
+    {
+        "model": "api_main.team",
+        "pk": 2,
+        "fields": {
+            "series_number": 2,
+            "name": "J.A.K.Q Dengekitai",
+            "year": 1975,
+            "era": "Showa",
+            "colors": [
+                "red",
+                "blue",
+                "yellow",
+                "pink",
+                "green"
+            ],
+            "actors": {
+                "red": "Naoya Makoto",
+                "blue": "Hiroshi Miyauchi",
+                "pink": "Lisa Komaki",
+                "green": "Yukio Itou",
+                "yellow": "Baku Hatakeyama, Jiro Daruma"
+            }
+        }
+    }
+]
