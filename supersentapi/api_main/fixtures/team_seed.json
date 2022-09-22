@@ -10,9 +10,9 @@
             "colors": [
                 "red",
                 "blue",
-                "yellow",
                 "pink",
-                "green"
+                "green",
+                "yellow"
             ],
             "actors": {
                 "red": "Naoya Makoto",
@@ -29,21 +29,209 @@
         "fields": {
             "series_number": 2,
             "name": "J.A.K.Q Dengekitai",
-            "year": 1975,
+            "year": 1977,
+            "era": "Showa",
+            "colors": [
+                "red",
+                "blue",
+                "pink",
+                "green",
+                "white"
+            ],
+            "actors": {
+                "red": "Yoshitaka Tanba",
+                "blue": "Tairayama Itou",
+                "pink": "Mitchi Love",
+                "green": "Yuusuke Kazato",
+                "white": "Hiroshi Miyauchi"
+            }
+        }
+    },
+    {
+        "model": "api_main.team",
+        "pk": 3,
+        "fields": {
+            "series_number": 3,
+            "name": "Battle Fever J",
+            "year": 1979,
+            "era": "Showa",
+            "colors": [
+                "red",
+                "orange",
+                "blue",
+                "black",
+                "pink"
+            ],
+            "actors": {
+                "red": "Hironori Tanioka",
+                "orange": "Yukio Itou, Daisuke Ban",
+                "blue": "Yuuhei Kurachi",
+                "black": "Kenji Ohba",
+                "pink": "Diane Martin, Naomi Hagi"
+            }
+        }
+    },
+    {
+        "model": "api_main.team",
+        "pk": 4,
+        "fields": {
+            "series_number": 4,
+            "name": "Denshi Sentai Denziman",
+            "year": 1980,
             "era": "Showa",
             "colors": [
                 "red",
                 "blue",
                 "yellow",
-                "pink",
-                "green"
+                "green",
+                "pink"
             ],
             "actors": {
-                "red": "Naoya Makoto",
-                "blue": "Hiroshi Miyauchi",
-                "pink": "Lisa Komaki",
-                "green": "Yukio Itou",
-                "yellow": "Baku Hatakeyama, Jiro Daruma"
+                "red": "Shinichi Yuuki",
+                "blue": "Kenji Ohba",
+                "yellow": "Eiichi Tsuyama",
+                "green": "Naoya Uchida",
+                "pink": "Akira Koizumi"
+            }
+        }
+    },
+    {
+        "model": "api_main.team",
+        "pk": 5,
+        "fields": {
+            "series_number": 5,
+            "name": "Taiyo Sentai Sun Vulcan",
+            "year": 1981,
+            "era": "Showa",
+            "colors": [
+                "red",
+                "blue",
+                "yellow"
+            ],
+            "actors": {
+                "red": "Ryusuke Kawasaki, Takayuki Godai",
+                "blue": "Kin'ya Sugi",
+                "yellow": "Asao Kobayashi"
+            }
+        }
+    },
+    {
+        "model": "api_main.team",
+        "pk": 6,
+        "fields": {
+            "series_number": 6,
+            "name": "Dai Sentai Goggle V",
+            "year": 1982,
+            "era": "Showa",
+            "colors": [
+                "red",
+                "black",
+                "blue",
+                "yellow",
+                "pink"
+            ],
+            "actors": {
+                "red": "Ryouji Akagi",
+                "black": "Jyunichi Haruta",
+                "blue": "Shigeki Ishii",
+                "yellow": "Sanpei Godai",
+                "pink": "Megumi Ogawa"
+            }
+        }
+    },
+    {
+        "model": "api_main.team",
+        "pk": 7,
+        "fields": {
+            "series_number": 7,
+            "name": "Kagaku Sentai Dynaman",
+            "year": 1983,
+            "era": "Showa",
+            "colors": [
+                "red",
+                "black",
+                "blue",
+                "yellow",
+                "pink"
+            ],
+            "actors": {
+                "red": "Satoshi Okita",
+                "black": "Jyunichi Haruta",
+                "blue": "Kouji Unogi",
+                "yellow": "Yuu Tokita",
+                "pink": "Sayoko Hagiwara"
+            }
+        }
+    },
+    {
+        "model": "api_main.team",
+        "pk": 8,
+        "fields": {
+            "series_number": 8,
+            "name": "Choudenshi Bioman",
+            "year": 1984,
+            "era": "Showa",
+            "colors": [
+                "red",
+                "green",
+                "blue",
+                "yellow",
+                "pink"
+            ],
+            "actors": {
+                "red": "Ryosuke Sakamoto",
+                "green": "Takahiko Ota",
+                "blue": "Akito Osuga",
+                "yellow": "Yuki Yajima, Sumiko Tanaka",
+                "pink": "Michiko Makino"
+            }
+        }
+    },
+    {
+        "model": "api_main.team",
+        "pk": 9,
+        "fields": {
+            "series_number": 9,
+            "name": "Dengeki Sentai Changeman",
+            "year": 1985,
+            "era": "Showa",
+            "colors": [
+                "red",
+                "black",
+                "blue",
+                "white",
+                "pink"
+            ],
+            "actors": {
+                "red": "Haruki Hamada",
+                "black": "Kazuoki Takahashi",
+                "blue": "Shiro Izumi",
+                "white": "Hiroko Nishimoto",
+                "pink": "Mai Ooishi"
+            }
+        }
+    },
+    {
+        "model": "api_main.team",
+        "pk": 10,
+        "fields": {
+            "series_number": 10,
+            "name": "Choushinsei Flashman",
+            "year": 1986,
+            "era": "Showa",
+            "colors": [
+                "red",
+                "green",
+                "blue",
+                "yellow",
+                "pink"
+            ],
+            "actors": {
+                "red": "Touta Tarumi",
+                "green": "Kihachiro Uemura",
+                "blue": "Yasuhiro Ishiwata",
+                "yellow": "Youko Nakamura",
+                "pink": "Mayumi Yoshida"
             }
         }
     }
