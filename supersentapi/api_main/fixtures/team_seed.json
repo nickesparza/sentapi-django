@@ -234,5 +234,329 @@
                 "pink": "Mayumi Yoshida"
             }
         }
+    },
+    {
+        "model": "api_main.team",
+        "pk": 11,
+        "fields": {
+            "series_number": 11,
+            "name": "Hikari Sentai Maskman",
+            "year": 1987,
+            "era": "Showa",
+            "colors": [
+                "red",
+                "black",
+                "blue",
+                "yellow",
+                "pink"
+            ],
+            "actors": {
+                "red": "Ryousuke Kaizu",
+                "black": "Koichi Kusakari",
+                "blue": "Issei Hirota",
+                "yellow": "Yuki Nagata",
+                "pink": "Kanako Maeda"
+            }
+        }
+    },
+    {
+        "model": "api_main.team",
+        "pk": 12,
+        "fields": {
+            "series_number": 12,
+            "name": "Choujuu Sentai Liveman",
+            "year": 1988,
+            "era": "Showa",
+            "colors": [
+                "red",
+                "yellow",
+                "blue",
+                "black",
+                "green"
+            ],
+            "actors": {
+                "red": "Daisuke Shima",
+                "yellow": "Kazuhiko Nishimura",
+                "blue": "Megumi Mori",
+                "black": "Seirou Yamaguchi",
+                "green": "Jin Kawamoto"
+            }
+        }
+    },
+    {
+        "model": "api_main.team",
+        "pk": 13,
+        "fields": {
+            "series_number": 13,
+            "name": "Kousoku Sentai Turboranger",
+            "year": 1989,
+            "era": "Heisei",
+            "colors": [
+                "red",
+                "blue",
+                "black",
+                "yellow",
+                "pink"
+            ],
+            "actors": {
+                "red": "Kenta Satou",
+                "blue": "Yoshiaki Ganaha",
+                "black": "Keiya Asakura",
+                "yellow": "Junichiro Katagiri",
+                "pink": "Yoshiko Kinohara"
+            }
+        }
+    },
+    {
+        "model": "api_main.team",
+        "pk": 14,
+        "fields": {
+            "series_number": 14,
+            "name": "Chikyuu Sentai Fiveman",
+            "year": 1990,
+            "era": "Heisei",
+            "colors": [
+                "red",
+                "blue",
+                "black",
+                "pink",
+                "yellow"
+            ],
+            "actors": {
+                "red": "Toshiya Fuji",
+                "blue": "Kei Shindachiya",
+                "black": "Ryohei Kobayashi",
+                "pink": "Kazuko Miyata",
+                "yellow": "Ryo Narushima"
+            }
+        }
+    },
+    {
+        "model": "api_main.team",
+        "pk": 15,
+        "fields": {
+            "series_number": 15,
+            "name": "Choujin Sentai Jetman",
+            "year": 1991,
+            "era": "Heisei",
+            "colors": [
+                "red",
+                "black",
+                "yellow",
+                "white",
+                "blue",
+                "green (manga only)"
+            ],
+            "actors": {
+                "red": "Kotaro Tanaka",
+                "black": "Toshihide Wakamatsu",
+                "yellow": "Tomihisa Naruse",
+                "white": "Rika Kishida",
+                "blue": "Sayuri Uchida",
+                "green": "Kazuko Miyata (manga only)"
+            }
+        }
+    },
+    {
+        "model": "api_main.team",
+        "pk": 16,
+        "fields": {
+            "series_number": 16,
+            "name": "Kyoryu Sentai Zyuranger",
+            "year": 1992,
+            "era": "Heisei",
+            "colors": [
+                "red",
+                "black",
+                "blue",
+                "yellow",
+                "pink",
+                "green"
+            ],
+            "actors": {
+                "red": "Yuuta Mochizuki",
+                "black": "Seiju Umon",
+                "blue": "Hideki Fujiwara",
+                "yellow": "Takumi Hashimoto",
+                "pink": "Reiko Chiba",
+                "green": "Shirou Izumi"
+            }
+        }
+    },
+    {
+        "model": "api_main.team",
+        "pk": 17,
+        "fields": {
+            "series_number": 17,
+            "name": "Gosei Sentai Dairanger",
+            "year": 1993,
+            "era": "Heisei",
+            "colors": [
+                "red",
+                "green",
+                "blue",
+                "yellow",
+                "pink",
+                "white"
+            ],
+            "actors": {
+                "red": "Keiichi Wada",
+                "green": "Tatsuya Nomi",
+                "blue": "Ei Hamura",
+                "yellow": "Keisuke Tsuchiya",
+                "pink": "Natsuki Takahashi",
+                "white": "Hisashi Sakai"
+            }
+        }
+    },
+    {
+        "model": "api_main.team",
+        "pk": 18,
+        "fields": {
+            "series_number": 18,
+            "name": "Ninja Sentai Kakuranger",
+            "year": 1994,
+            "era": "Heisei",
+            "colors": [
+                "red",
+                "white",
+                "yellow",
+                "blue",
+                "black"
+            ],
+            "actors": {
+                "red": "Teruaki Ogawa",
+                "white": "Satomi Hirose",
+                "yellow": "Shu Kawai",
+                "blue": "Hiroshi Tsuchida",
+                "black": "Kane Kosugi"
+            }
+        }
+    },
+    {
+        "model": "api_main.team",
+        "pk": 19,
+        "fields": {
+            "series_number": 19,
+            "name": "Chouriki Sentai Ohranger",
+            "year": 1995,
+            "era": "Heisei",
+            "colors": [
+                "red",
+                "green",
+                "blue",
+                "yellow",
+                "pink",
+                "black"
+            ],
+            "actors": {
+                "red": "Masaru Shishido",
+                "green": "Kunio Masaoka",
+                "blue": "Masashi Goda",
+                "yellow": "Ayumi Aso",
+                "pink": "Tamao Sato",
+                "black": "Shoji Yamaguchi"
+            }
+        }
+    },
+    {
+        "model": "api_main.team",
+        "pk": 20,
+        "fields": {
+            "series_number": 20,
+            "name": "Gekisou Sentai Carranger",
+            "year": 1996,
+            "era": "Heisei",
+            "colors": [
+                "red",
+                "blue",
+                "green",
+                "yellow",
+                "pink"
+            ],
+            "actors": {
+                "red": "Yuji Kishi",
+                "blue": "Yoshihiro Masujima",
+                "green": "Yoshihiro Fukuda",
+                "yellow": "Yuka Motohashi",
+                "pink": "Atsuko Kurusu"
+            }
+        }
+    },
+    {
+        "model": "api_main.team",
+        "pk": 21,
+        "fields": {
+            "series_number": 21,
+            "name": "Denji Sentai Megaranger",
+            "year": 1997,
+            "era": "Heisei",
+            "colors": [
+                "red",
+                "black",
+                "blue",
+                "yellow",
+                "pink",
+                "silver"
+            ],
+            "actors": {
+                "red": "Hayato Oshiba",
+                "black": "Atsushi Ehara",
+                "blue": "Masaya Matsukaze",
+                "yellow": "Eri Tanaka",
+                "pink": "Mami Higashiyama",
+                "silver": "Shigeru Kanai"
+            }
+        }
+    },
+    {
+        "model": "api_main.team",
+        "pk": 22,
+        "fields": {
+            "series_number": 22,
+            "name": "Seijuu Sentai Gingaman",
+            "year": 1998,
+            "era": "Heisei",
+            "colors": [
+                "red",
+                "green",
+                "blue",
+                "yellow",
+                "pink",
+                "black"
+            ],
+            "actors": {
+                "red": "Kazuki Maehara",
+                "green": "Koji Sueyoshi",
+                "blue": "Shoei",
+                "yellow": "Nobuaki Takahashi",
+                "pink": "Juri Miyazawa",
+                "black": "Koji Ochiai, Teruaki Ogawa"
+            }
+        }
+    },
+    {
+        "model": "api_main.team",
+        "pk": 23,
+        "fields": {
+            "series_number": 23,
+            "name": "Kyukyu Sentai GoGoFive",
+            "year": 1999,
+            "era": "Heisei",
+            "colors": [
+                "red",
+                "blue",
+                "green",
+                "yellow",
+                "pink"
+            ],
+            "actors": {
+                "red": "Ryuichiro Nishioka",
+                "blue": "Masashi Taniguchi",
+                "green": "Atsushi Harada",
+                "yellow": "Kenji Shibata",
+                "pink": "Kayoko Shibata"
+            }
+        }
     }
 ]
