@@ -9,3 +9,7 @@ def index(request):
 def get_teams(request):
     teams = Team.objects.all().values()
     return JsonResponse({"teams": list(teams)})
+
+def show_team(request, team_id):
+    team = Team.objects.get(id=team_id)
+    return JsonResponse({"team": team})
