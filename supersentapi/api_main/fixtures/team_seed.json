@@ -558,5 +558,625 @@
                 "pink": "Kayoko Shibata"
             }
         }
+    },
+    {
+        "model": "api_main.team",
+        "pk": 24,
+        "fields": {
+            "series_number": 24,
+            "name": "Mirai Sentai Timeranger",
+            "year": 2000,
+            "era": "Heisei",
+            "colors": [
+                "red",
+                "pink",
+                "blue",
+                "yellow",
+                "green",
+                "fire"
+            ],
+            "actors": {
+                "red": "Masaru Nagai",
+                "pink": "Mika Katsumura",
+                "blue": "Yuji Kido",
+                "yellow": "Shuhei Izumi",
+                "green": "Masahiro Kuranuki",
+                "fire": "Masaru Nagai, Shinja Kasahara"
+            }
+        }
+    },
+    {
+        "model": "api_main.team",
+        "pk": 25,
+        "fields": {
+            "series_number": 25,
+            "name": "Hyakuju Sentai Gaoranger",
+            "year": 2001,
+            "era": "Heisei",
+            "colors": [
+                "red",
+                "yellow",
+                "blue",
+                "black",
+                "white",
+                "silver"
+            ],
+            "actors": {
+                "red": "Noboru Kaneko",
+                "yellow": "Kei Horie",
+                "blue": "Takeru Shibaki",
+                "black": "Kazuyoshi Sakai",
+                "white": "Mio Takeuchi",
+                "silver": "Tetsuji Tamayama"
+            }
+        }
+    },
+    {
+        "model": "api_main.team",
+        "pk": 26,
+        "fields": {
+            "series_number": 26,
+            "name": "Ninpu Sentai Hurricaneger",
+            "year": 2002,
+            "era": "Heisei",
+            "colors": [
+                "red",
+                "blue",
+                "yellow"
+            ],
+            "actors": {
+                "red": "Shun Shioya",
+                "blue": "Nao Nagasawa",
+                "yellow": "Kohei Yamamoto"
+            }
+        }
+    },
+    {
+        "model": "api_main.team",
+        "pk": 27,
+        "fields": {
+            "series_number": 27,
+            "name": "Bakuryuu Sentai Abaranger",
+            "year": 2003,
+            "era": "Heisei",
+            "colors": [
+                "red",
+                "blue",
+                "yellow",
+                "black",
+                "killer"
+            ],
+            "actors": {
+                "red": "Koichiro Nishi",
+                "blue": "Shou Tomita",
+                "yellow": "Aiko Ito",
+                "black": "Kaoru Abe",
+                "killer": "Koutaro Tanaka"
+            }
+        }
+    },
+    {
+        "model": "api_main.team",
+        "pk": 28,
+        "fields": {
+            "series_number": 28,
+            "name": "Tokusou Sentai Dekaranger",
+            "year": 2004,
+            "era": "Heisei",
+            "colors": [
+                "red",
+                "blue",
+                "green",
+                "yellow",
+                "pink",
+                "white",
+                "black",
+                "swan"
+            ],
+            "actors": {
+                "red": "Ryuji Sainei, Rakuto Tochihara",
+                "blue": "Tsuyoshi Hayashi",
+                "green": "Yousuke Itou",
+                "yellow": "Ayumi Kinoshita, Mizuho Hata",
+                "pink": "Mika Kikuchi",
+                "white": "Tomokazu Yoshida",
+                "black": "Tetsu Inada",
+                "swan": "Mako Ishino"
+            }
+        }
+    },
+    {
+        "model": "api_main.team",
+        "pk": 29,
+        "fields": {
+            "series_number": 29,
+            "name": "Mahou Sentai Magiranger",
+            "year": 2005,
+            "era": "Heisei",
+            "colors": [
+                "red",
+                "yellow",
+                "blue",
+                "pink",
+                "green",
+                "gold",
+                "white",
+                "fire"
+            ],
+            "actors": {
+                "red": "Atsushi Hashimoto",
+                "yellow": "Hiroya Matsumoto",
+                "blue": "Asami Kai",
+                "pink": "Ayumi Beppu",
+                "green": "Yuki Ito",
+                "gold": "Yousuke Ichikawa",
+                "white": "Azusa Watanabe",
+                "fire": "Tsutomu Isobe"
+            }
+        }
+    },
+    {
+        "model": "api_main.team",
+        "pk": 30,
+        "fields": {
+            "series_number": 30,
+            "name": "GoGo Sentai Boukenger",
+            "year": 2006,
+            "era": "Heisei",
+            "colors": [
+                "red",
+                "black",
+                "blue",
+                "yellow",
+                "pink",
+                "silver"
+            ],
+            "actors": {
+                "red": "Matsuomi Takahashi",
+                "black": "Yasuka Saitou",
+                "blue": "Masashi Mikami",
+                "yellow": "Chise Nakamura",
+                "pink": "Haruka Suenaga",
+                "silver": "Masayuki Deai"
+            }
+        }
+    },
+    {
+        "model": "api_main.team",
+        "pk": 31,
+        "fields": {
+            "series_number": 31,
+            "name": "Juken Sentai Gekiranger",
+            "year": 2007,
+            "era": "Heisei",
+            "colors": [
+                "red",
+                "yellow",
+                "blue",
+                "violet",
+                "white"
+            ],
+            "actors": {
+                "red": "Hiroki Suzuki",
+                "yellow": "Mina Fukui",
+                "blue": "Manpei Takagi",
+                "violet": "Riki Miura",
+                "white": "Sotaro Yasuda"
+            }
+        }
+    },
+    {
+        "model": "api_main.team",
+        "pk": 32,
+        "fields": {
+            "series_number": 32,
+            "name": "Engine Sentai Go-Onger",
+            "year": 2008,
+            "era": "Heisei",
+            "colors": [
+                "red",
+                "blue",
+                "yellow",
+                "green",
+                "black"
+            ],
+            "actors": {
+                "red": "Yasuhisa Furuhara",
+                "blue": "Shinwa Kataoka",
+                "yellow": "Rina Aizawa",
+                "green": "Masahiro Usui",
+                "black": "Kenji Ebisawa"
+            }
+        }
+    },
+    {
+        "model": "api_main.team",
+        "pk": 33,
+        "fields": {
+            "series_number": 33,
+            "name": "Samurai Sentai Shinkenger",
+            "year": 2009,
+            "era": "Heisei",
+            "colors": [
+                "red",
+                "blue",
+                "pink",
+                "green",
+                "yellow",
+                "gold"
+            ],
+            "actors": {
+                "red": "Tori Matsukaze, Runa Natsui",
+                "blue": "Hiroki Aiba",
+                "pink": "Rin Takanashi",
+                "green": "Shogo Suzuki",
+                "yellow": "Suzuka Morita",
+                "gold": "Keisuke Sohma"
+            }
+        }
+    },
+    {
+        "model": "api_main.team",
+        "pk": 34,
+        "fields": {
+            "series_number": 34,
+            "name": "Tensou Sentai Goseiger",
+            "year": 2010,
+            "era": "Heisei",
+            "colors": [
+                "red",
+                "pink",
+                "black",
+                "yellow",
+                "blue",
+                "green"
+            ],
+            "actors": {
+                "red": "Yudai Chiba",
+                "pink": "Rika Sato",
+                "black": "Kyousuke Hamao",
+                "yellow": "Mikiho Niwa",
+                "blue": "Kento Ono",
+                "green": "Yousuke Itou"
+            }
+        }
+    },
+    {
+        "model": "api_main.team",
+        "pk": 35,
+        "fields": {
+            "series_number": 35,
+            "name": "Kaizoku Sentai Gokaiger",
+            "year": 2011,
+            "era": "Heisei",
+            "colors": [
+                "red",
+                "blue",
+                "yellow",
+                "green",
+                "pink",
+                "silver"
+            ],
+            "actors": {
+                "red": "Ryota Ozawa",
+                "blue": "Yuki Yamada",
+                "yellow": "Mao Ichimichi",
+                "green": "Kazuki Shimizu",
+                "pink": "Yui Koike",
+                "silver": "Junya Ikeda"
+            }
+        }
+    },
+    {
+        "model": "api_main.team",
+        "pk": 36,
+        "fields": {
+            "series_number": 36,
+            "name": "Tokumei Sentai Go-Busters",
+            "year": 2012,
+            "era": "Heisei",
+            "colors": [
+                "red",
+                "blue",
+                "yellow",
+                "gold",
+                "silver"
+            ],
+            "actors": {
+                "red": "Katsuhiro Suzuki",
+                "blue": "Ryoma Baba",
+                "yellow": "Arisa Komiya",
+                "gold": "Hiroya Matsumoto",
+                "silver": "Yuuichi Nakamura"
+            }
+        }
+    },
+    {
+        "model": "api_main.team",
+        "pk": 37,
+        "fields": {
+            "series_number": 37,
+            "name": "Zyuden Sentai Kyoryuger",
+            "year": 2013,
+            "era": "Heisei",
+            "colors": [
+                "red",
+                "black",
+                "blue",
+                "green",
+                "pink",
+                "gold"
+            ],
+            "actors": {
+                "red": "Ryo Ryusei",
+                "black": "Syuusuke Saito",
+                "blue": "Yamato Kinjo",
+                "green": "Akihisa Shiono",
+                "pink": "Ayuri Konno",
+                "gold": "Atsushi Maruyama"
+            }
+        }
+    },
+    {
+        "model": "api_main.team",
+        "pk": 38,
+        "fields": {
+            "series_number": 38,
+            "name": "Ressha Sentai ToQger",
+            "year": 2014,
+            "era": "Heisei",
+            "colors": [
+                "red",
+                "blue",
+                "yellow",
+                "green",
+                "pink",
+                "orange"
+            ],
+            "actors": {
+                "red": "Jun Shison",
+                "blue": "Jin Hiramaki",
+                "yellow": "Riria",
+                "green": "Ryusei Yokohama",
+                "pink": "Ai Moritaka",
+                "orange": "Shin Nagahama"
+            }
+        }
+    },
+    {
+        "model": "api_main.team",
+        "pk": 39,
+        "fields": {
+            "series_number": 39,
+            "name": "Shuriken Sentai Ninninger",
+            "year": 2015,
+            "era": "Heisei",
+            "colors": [
+                "red",
+                "blue",
+                "yellow",
+                "white",
+                "pink",
+                "gold",
+                "green"
+            ],
+            "actors": {
+                "red": "Shunsuke Nishikawa",
+                "blue": "Gaku Matsumoto",
+                "yellow": "Kaito Nakamura",
+                "white": "Yuuka Yano",
+                "pink": "Kasumi Yamaya",
+                "gold": "Hideya Tawada",
+                "green": "Megumi Han"
+            }
+        }
+    },
+    {
+        "model": "api_main.team",
+        "pk": 40,
+        "fields": {
+            "series_number": 40,
+            "name": "Doubutsu Sentai Zyuohger",
+            "year": 2016,
+            "era": "Heisei",
+            "colors": [
+                "red",
+                "blue",
+                "yellow",
+                "green",
+                "white",
+                "orange",
+                "purple",
+                "The World"
+            ],
+            "actors": {
+                "red": "Masaki Nakao",
+                "blue": "Miki Yanagi",
+                "yellow": "Shouhei Nanba",
+                "green": "Tsurugi Watanabe",
+                "white": "Haruka Tateishi",
+                "orange": "Kohei Murakami",
+                "purple": "Masaki Nakao, Kohei Murakami",
+                "theworld": "Naoki Kunishima"
+            }
+        }
+    },
+    {
+        "model": "api_main.team",
+        "pk": 41,
+        "fields": {
+            "series_number": 41,
+            "name": "Uchu Sentai Kyuranger",
+            "year": 2017,
+            "era": "Heisei",
+            "colors": [
+                "red",
+                "orange",
+                "blue",
+                "gold",
+                "black",
+                "silver",
+                "green",
+                "pink",
+                "yellow",
+                "purple",
+                "skyblue",
+                "phoenix red"
+            ],
+            "actors": {
+                "red": "Takumi Kizu",
+                "orange": "Yousuke Kishi",
+                "blue": "Kazuya Nakai",
+                "gold": "Yuki Ono",
+                "black": "Akio Otsuka",
+                "silver": "Taiki Yamazaki",
+                "green": "Sakurako Okubo",
+                "pink": "Mao Ichimichi",
+                "yellow": "Tetsuji Sakakibara",
+                "purple": "Hiroshi Kamiya",
+                "skyblue": "Shota Taguchi",
+                "phoenixred": "Keisuke Minami"
+            }
+        }
+    },
+    {
+        "model": "api_main.team",
+        "pk": 42,
+        "fields": {
+            "series_number": 42,
+            "name": "Kaitou Sentai Lupinranger vs. Keisatsu Sentai Patranger",
+            "year": 2018,
+            "era": "Heisei",
+            "colors": [
+                "Lupin Red",
+                "Lupin Blue",
+                "Lupin Yellow",
+                "Lupin X (silver)",
+                "Patren Ichigou (red)",
+                "Patren Niigou (green)",
+                "Patren Sangou (pink)",
+                "Patren X (gold)"
+            ],
+            "actors": {
+                "lupinred": "Asahi Itou",
+                "lupinblue": "Shogo Hama",
+                "lupinyellow": "Haruka Kudo",
+                "lupinx": "Seiya Motoki",
+                "patrenred": "Kousei Yuuki",
+                "patrengreen": "Ryo Yokoyama",
+                "patrenpink": "Kazusa Okuyama",
+                "patrenx": "Seiya Motoki"
+            }
+        }
+    },
+    {
+        "model": "api_main.team",
+        "pk": 43,
+        "fields": {
+            "series_number": 43,
+            "name": "Kishiryu Sentai Ryusoulger",
+            "year": 2019,
+            "era": "Heisei",
+            "colors": [
+                "red",
+                "blue",
+                "pink",
+                "green",
+                "black",
+                "gold",
+                "purple",
+                "brown"
+            ],
+            "actors": {
+                "red": "Hayate Ichinose",
+                "blue": "Keito Tsuna",
+                "pink": "Ichika Osaki",
+                "green": "Yuito Obara",
+                "black": "Tatsuya Kishida",
+                "gold": "Katsumi Hyodo",
+                "purple": "Seiya Osada",
+                "brown": "Mitsuru Fukikoshi"
+            }
+        }
+    },
+    {
+        "model": "api_main.team",
+        "pk": 44,
+        "fields": {
+            "series_number": 44,
+            "name": "Mashin Sentai Kiramager",
+            "year": 2020,
+            "era": "Reiwa",
+            "colors": [
+                "red",
+                "yellow",
+                "green",
+                "blue",
+                "pink",
+                "silver"
+            ],
+            "actors": {
+                "red": "Rio Komiya",
+                "yellow": "Rui Kihara",
+                "green": "Yume Shinjo",
+                "blue": "Atomu Mizuishi",
+                "pink": "Mio Kudo",
+                "silver": "Kohei Shoji"
+            }
+        }
+    },
+    {
+        "model": "api_main.team",
+        "pk": 45,
+        "fields": {
+            "series_number": 45,
+            "name": "Kikai Sentai Zenkaiger",
+            "year": 2021,
+            "era": "Reiwa",
+            "colors": [
+                "white",
+                "red",
+                "yellow",
+                "pink",
+                "blue",
+                "gold",
+                "purple"
+            ],
+            "actors": {
+                "white": "Kiita Komagine",
+                "red": "Shintaro Asanuma",
+                "yellow": "Yuki Kaji",
+                "pink": "Yume Miyamoto",
+                "blue": "Takuya Sato",
+                "gold": "Atsuki Mashiko",
+                "purple": "Ryo Sekoguchi"
+            }
+        }
+    },
+    {
+        "model": "api_main.team",
+        "pk": 46,
+        "fields": {
+            "series_number": 46,
+            "name": "Avataro Sentai Donbrothers",
+            "year": 2022,
+            "era": "Reiwa",
+            "colors": [
+                "red",
+                "blue",
+                "yellow",
+                "black",
+                "pink",
+                "gold/silver"
+            ],
+            "actors": {
+                "red": "Kouhei Higuchi",
+                "blue": "Yuuki Beppu",
+                "yellow": "Kohaku Shida",
+                "black": "Totaro",
+                "pink": "Hirofumi Suzuki",
+                "gold/silver": "Raizou Ishikawa"
+            }
+        }
     }
 ]
